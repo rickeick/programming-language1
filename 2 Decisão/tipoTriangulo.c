@@ -8,16 +8,16 @@ int main(void) {
 	if (A<(B+C) && B<(A+C) && C<(A+B)) {
 		printf("Esse valores de lados formam um triângulo ");
 		if (A==B && B==C) {
-            printf("equiátero.\n");
-        }
+			printf("equiátero.\n");
+		}
 		else if (A==B || B==C || C==B) {
-            printf("isóceles.\n");
-        }
+			printf("isóceles.\n");
+		}
 		else {
-            printf("escaleno.\n");
-        }
+			printf("escaleno.\n");
+		}
 	} else {
-        printf("Esses valores de lados não formam um triângulo.\n");
-    }
+		printf("Esses valores de lados não formam um triângulo.\n");
+	}
 	return 0;
 }

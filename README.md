@@ -6,3 +6,4 @@ Atividades e provas em C de Linguagem de Programação I, professor Glaubos Clim
 1. Introdução a Linguagem C
 2. Estrutura de Decisão - `if`/`else` e `swicth`/`case`
 3. Estrutura de Repetição - `for` e `while`
+4. Macros e Funções - `#define` e `function()`
