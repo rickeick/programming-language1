@@ -9,3 +9,5 @@ Atividades e provas em C de Linguagem de Programação I, professor Glaubos Clim
 4. Macros e Funções - `#define` e `function()`
 5. Vetores e Matrizes - `vetor[]` e `matriz[][]`
 6. Ponteiros - `*ponteiro = &variavel`
+7. Strings - `char string[] = "string"`
+8. Structs - `typedef struct {} Estrutura`
